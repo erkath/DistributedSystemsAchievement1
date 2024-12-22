@@ -10,4 +10,7 @@
 
 Использовались 2 восьмибитных таймера Atmega8 -- Timer/Counter2 и Timer/Counter0.
 
-![image](https://github.com/user-attachments/assets/01027c90-4d8a-4fe7-8b26-a43f16a48560)
+Скриншот валидации работы программы в Proteus:
+
+![image](https://github.com/user-attachments/assets/ff800f17-be38-41d5-a860-643745169d3f)
+
